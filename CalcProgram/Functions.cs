@@ -11,5 +11,10 @@ namespace CalcProgram
             return A + B;
         }
 
+        public static double Subtraction(double A, double B)
+        {
+            return A - B;
+        }
+
     }
 }
