@@ -6,6 +6,9 @@ namespace CalcProgram
 {
     public class Functions
     {
-
+        public static double Subtraction(double A, double B)
+        {
+            return A - B;
+        }
     }
 }
