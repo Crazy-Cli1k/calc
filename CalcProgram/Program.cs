@@ -28,7 +28,7 @@ namespace CalcProgram
             }
             else if (choice == 4)
             {
-
+                Console.WriteLine($"Плучилось {Functions.Division(A,B)}");
             }
             else Console.WriteLine("Ошибка! Неверные данные!");
         }
