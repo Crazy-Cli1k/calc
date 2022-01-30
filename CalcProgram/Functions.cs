@@ -16,5 +16,10 @@ namespace CalcProgram
             return A - B;
         }
 
+        public static double Multiplication(double A, double B)
+        {
+            return A * B;
+        }
+
     }
 }
