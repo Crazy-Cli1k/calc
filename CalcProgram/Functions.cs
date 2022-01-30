@@ -6,6 +6,10 @@ namespace CalcProgram
 {
     public class Functions
     {
+        public static double Addition(double A, double B)
+        {
+            return A + B;
+        }
 
     }
 }

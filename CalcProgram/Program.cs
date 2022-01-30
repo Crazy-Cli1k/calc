@@ -16,7 +16,7 @@ namespace CalcProgram
 
             if (choice == 1)
             {
-
+                Console.WriteLine($"Получилось {Functions.Addition(A, B)}");
             }
             else if (choice == 2)
             {
