@@ -24,7 +24,7 @@ namespace CalcProgram
             }
             else if (choice == 3)
             {
-
+                Console.WriteLine($"{Functions.Multiplication(A,B)} всадника апокалипсиса из 4!");
             }
             else if (choice == 4)
             {
